@@ -1,0 +1,191 @@
+*{
+	/*border: solid 2px black;*/
+	vertical-align: middle;
+
+	font-family: 微軟正黑體;
+	font-weight: 350;
+
+	line-height: 30px; 
+
+	max-width: 768px;
+	margin-left: auto;
+	margin-right: auto;
+
+	position: relative;
+
+	/*background-color: #EEF4F2;*/
+}
+
+.top{
+	height: 250px;
+}
+
+.bottom{
+	margin-top: 20px;
+	height: 800px;
+}
+
+.left{
+	display: inline-block;
+	width: 65%;
+	height: 500px;
+	box-sizing: border-box;
+	/*border-right: solid 2px rgba(0,0,0,0.1);*/
+}
+
+.right{
+	display: inline-block;
+	width: 35%;
+	height: 500px;
+	box-sizing: border-box;
+}
+
+.intro{
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #EEF4F2;
+}
+
+.bar{
+	position: absolute;
+	width: 768px;
+	height:250px;
+	border: solid 0px black;
+	background-color: #233656;
+	border-radius: 10px;
+
+}
+
+h1{
+	font-weight: 330;
+	font-size: 2.3em;
+	text-align: center;
+	padding-top: 15px;
+	color: #EEF4F2;
+
+}
+
+.title{
+	text-align: center;
+	color: #EEF4F2;
+}
+
+.skill{
+	display: inline-block;
+}
+
+.skill{
+	width: 100px;
+	padding: 10px;
+}
+
+.gram{
+	display: inline-block;
+	border: solid 3px #415B76;
+	border-radius: 20px;
+	width: 300px;
+	height: 14px;
+}
+
+.percent{
+	display: inline-block;
+}
+
+.portion{
+	display: inline-block;
+	border: solid 0px #415B76;
+	border-radius: 20px;
+	height: 10px;
+	background-color: #7B9BA6;
+	position: absolute;
+	margin: 2px;
+}
+
+	#photoshop{
+		width: 255px;
+	}
+
+	#ill{
+		width: 210px;
+	}
+
+	#lig{
+		width: 285px;
+	}
+
+	#pre{
+		width: 195px;
+	}
+
+	#xd{
+		width: 210px;
+	}
+
+	#muse{
+		width: 210px;
+	}
+
+	#photography{
+		width: 297px;
+	}
+
+	#wri{
+		width: 240px;
+	}
+
+	#wd{
+		width: 150px;
+	}
+
+h3{
+	text-align: center;
+	border-left: solid 3px #415B76;
+	color: #233656;
+}
+
+.school{
+	margin: 15px;
+	margin-left: 45px;
+	color: #233656;
+}
+
+
+
+
+.onlinecollection{
+	padding: 5px;
+	
+}
+
+.onlinecollection{
+	text-decoration: none;
+	color: #233656;
+	margin-left: 40px;
+	border-bottom: solid 2px rgba(0,0,0,0.1);
+}
+
+.contact{
+	margin-top: 50px;
+	color: #EEF4F2;
+}
+ 
+a.contact{
+	text-decoration: none;
+}
+
+.word{
+	padding-left: 20px;
+	padding-top: 3px;
+}
+
+.botbar{
+	position: absolute;
+	width: 768px;
+	height:100px;
+	border: solid 1px black;
+	background-color: #233656;
+	border-radius: 10px;
+	
+}
+
+
